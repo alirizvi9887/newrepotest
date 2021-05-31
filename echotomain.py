@@ -1,1 +1,1 @@
-echo test to main
+echo test to main pls
